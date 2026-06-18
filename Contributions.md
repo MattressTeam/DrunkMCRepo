@@ -77,4 +77,15 @@ Be respectful and constructive. This project is designed to remain simple, open,
 
 ---
 
+## Process To Addition
+
+1. Create File Struture and Manifest Appropierate to Standards Listed in [File Structure And Manifest](/Filestructure&Manifest.md)
+1. Read Waiver and Our Contribution Policies Carefully
+1. Sign Waiver Using [GnuPG](https://www.gnupg.org/)
+    > `gpg --no-version --armor --sign WAIVER`
+1. File A PR with Your Files with a Link Of Where You Host your Public Key and Signed Waiver
+1. Wait Until Moderation Accepts Your Addition
+1. Profit
+
+---
 Thank you for helping improve the registry.

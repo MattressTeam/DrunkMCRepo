@@ -1,0 +1,13 @@
+{
+    "minecraft":"1.12.2",
+    "loader":{
+        "type":"forge",
+        "version":"14.23.5.2864"
+    },
+    "url":"https://mediafilez.forgecdn.net/files/8073/312/%21cleanroom-relauncher-0.5.0.jar",
+    "path":"mods/cleanroommc.jar",
+    "checksum": "b754a47c430f26e6eb13483ca4f6e849", "_comment":"md5_checksum",
+    "Dependency":[
+        
+    ]
+}

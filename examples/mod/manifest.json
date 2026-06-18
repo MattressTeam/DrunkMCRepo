@@ -1,0 +1,11 @@
+{
+    "id":"linux-kernal",
+    "name":"Linux",
+    "Authors":["TheLinuxFoundation"],
+    "icon":"Tux.svg",
+    "Repo":"https://git.kernel.org/",
+    "latest":"7.0.11",
+    "Dependency":[
+        
+    ]
+}

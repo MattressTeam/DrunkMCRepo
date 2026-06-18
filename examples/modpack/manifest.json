@@ -1,0 +1,11 @@
+{
+    "id":"linux-kernal",
+    "name":"Linux",
+    "Authors":["TheLinuxFoundation"],
+    "icon":"Tux.svg",
+    "Repo":"https://git.kernel.org/",
+    "Mods":[
+        {"Name":"Cleanroom Relauncher","Author":"CleanroomMC","Icon":"https://media.forgecdn.net/avatars/thumbnails/1193/283/64/64/638768621890000641.png","Link":"https://github.com/CleanroomMC/CleanroomRelauncher"}
+    ],
+    "latest":"7.0.11"
+}
